@@ -1,6 +1,6 @@
 # Arduino Prosjekt
 
-## Komponenter:
+### Komponenter:
 
 
 * **Arduino Mega 2560**
@@ -30,7 +30,7 @@
 * **MH Real Time Clock Modules 2** 
 <img src="Bilder/RTC.jpg" width="200">
 
-## Biblioteker:
+### Biblioteker:
 
 * [LiquidCrystal_I2C.h][1]
 
